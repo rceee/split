@@ -76,8 +76,9 @@ body {
 }
 
 .header span.environment {
-  font-size: 1em;
+  font-size: 0.8em;
   color: #ccc;
+  font-style: italic;
 }
 
 #main {
